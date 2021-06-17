@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Jiang Liu's Pages
 
-You can use the [editor on GitHub](https://github.com/asurada404/asurada404.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# News
+- [Jun 17 2021] I received a reply from a professor :).
+- [Jun 17 2021] I was rejected by EPFL o(╥﹏╥)o.
 
 ### Markdown
 
