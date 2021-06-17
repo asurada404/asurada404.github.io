@@ -4,6 +4,18 @@
 - [Jun 17 2021] I received a reply from a professor :).
 - [Jun 17 2021] I was rejected by EPFL o(╥﹏╥)o.
 
+# Publication
+- comming soon
+
+# Projects
+- comming soon
+
+# Presentation and Talk
+- comming soon
+
+# Hobby
+I enjoy coding.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
